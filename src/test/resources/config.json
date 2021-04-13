@@ -1,0 +1,36 @@
+{
+  "cameras": {
+    "cam1": {
+      "name": "Canon 350",
+      "colour": "black",
+      "hasLivePicture": "true"
+    },
+    "cam2": {
+      "name": "Sony 1000",
+      "colour": "grey",
+      "hasLivePicture": "false"
+    }
+  },
+  "lenses": {
+    "lens1": {
+      "aperture": "f1.8",
+      "manufacturer": "Zeiss"
+    },
+    "lens2": {
+      "aperture": "f2",
+      "manufacturer": "Zeiss"
+    }
+  },
+  "motives": {
+    "m1": {
+      "type": "Portrait",
+      "aperture": "f2",
+      "exposure":"0.02"
+    },
+    "m2": {
+      "type": "Landscape",
+      "aperture": "f1.8",
+      "exposure": "0.1"
+    }
+  }
+}

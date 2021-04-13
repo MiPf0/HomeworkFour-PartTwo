@@ -1,0 +1,26 @@
+{
+  "cameras": {
+    "cam1": {
+      "name": "Canon 350",
+      "colour": "black",
+      "hasLivePicture": "true"
+    },
+    "cam2": {
+      "name": "Sony 1000",
+      "colour": "grey",
+      "hasLivePicture": "false"
+    }
+  },
+  "motives": {
+    "m1": {
+      "type": "Portrait",
+      "aperture": "f2",
+      "exposure":"0.02"
+    },
+    "m2": {
+      "type": "Landscape",
+      "aperture": "f2",
+      "exposure": "0.1"
+    }
+  }
+}
